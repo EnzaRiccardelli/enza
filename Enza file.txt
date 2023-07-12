@@ -1,5 +1,2 @@
 # con ALT verifica se una persona può guidare una automobile
-stringa1 = input("inserisci nome utente:")
-stringa2 = input("Inserisci età:")
-print("Nome utente = ", stringa1)
-print("Età utente = ", stringa2)
+
